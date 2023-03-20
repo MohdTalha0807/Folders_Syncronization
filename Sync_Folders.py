@@ -6,7 +6,7 @@
 
 # hashing can be stored in the database
 # standardize the command line argument
-# exception handling
+# exception handling for different cases: for example, if the directories are deleted instead of the files.
 
 import os
 import sys
