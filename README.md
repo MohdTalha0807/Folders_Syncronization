@@ -1,5 +1,6 @@
 # Folders_Syncronization
 
+# Overview
 Implementation of a program that synchronizes two folders: source and replica. 
 The program maintains a full, identical copy of source folder at replica folder.
 Synchronization has been implemented one-way: after the synchronization, content of the replica folder can be modified to exactly match content of the source folder.
